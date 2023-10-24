@@ -21,7 +21,7 @@
       "name": "ReSurfX",
       "position": "Machine Learning Intern",
       "location": "Cambridge, MA",
-      "url": "https://example.com",
+      "url": "https://resurfx.com/",
       "startDate": "2023-06-01",
       "endDate": "2023-08-31",
       "summary": "",
@@ -33,7 +33,8 @@
     },
     {
       "name": "DACSS, UMass, Amherst",
-      "position": "Student Research",
+      "position": "Student Research Assisstant",
+      "url":"https://www.umass.edu/social-sciences/academics/ms-dacss",
       "location": "Amherst, MA",
       "startDate": "2022-08-01",
       "endDate": "2023-04-30",
@@ -46,6 +47,7 @@
     },
     {
       "name": "Societe Generale GSC",
+      "url":"https://globalsolutioncentre.societegenerale.ro/en/",
       "position": "Sr SDE - Devops Automation",
       "location": "Bangalore, India",
       "startDate": "2021-12-01",
@@ -59,6 +61,7 @@
     },
     {
       "name": "Societe Generale GSC",
+      "url":"https://globalsolutioncentre.societegenerale.ro/en/",
       "position": "SDE - Full Stack",
       "location": "Bangalore, India",
       "startDate": "2019-01-07",
@@ -73,11 +76,13 @@
     {
       "name": "Indian Institute of Information Technology - Jabalpur",
       "position": "Summer Research Intern",
+      "url":"https://www.iiitdmj.ac.in/",
       "location": "Jabalpur, India",
       "startDate": "2018-05-01",
       "endDate": "2018-07-30",
       "summary": "",
       "highlights": [
+        "Part of the Machine Learning Research Lab of <a href='https://scholar.google.com/citations?user=n0lOKiAAAAAJ&hl=en'>Prof Ayan Seal</a>",
         "Published Research paper on Image fusion metrics and algorithm and worked on Image manipulation pipelines to compare image fusion.",
         "Packaged and parameterised Image fusion research algorithms and implemented Research paper Image & Data fusion algorithms."
       ]
@@ -124,7 +129,12 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": ["python","Ansible","terraform"],
+  "skills": [
+    {
+      "language": "lol",
+      "fluency": "lol"
+    }
+  ],
   "languages": [
     {
       "language": "Bengali",
