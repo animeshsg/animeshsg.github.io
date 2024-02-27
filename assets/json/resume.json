@@ -18,6 +18,18 @@
   },
   "work": [
     {
+      "name": "Dell technologies",
+      "position": "Senior Data Science Analyst",
+      "location": "Round Rock, TX",
+      "url": "https://www.dell.com/en-us",
+      "startDate": "2024-02-05",
+      "summary": "",
+      "highlights": [
+        "Implemented text2SQL agents in langchain to automate Data Analysis",
+        "Deployed FastAPI and streamlit microservices to host LLM powered chatbot engines",
+      ]
+    },
+    {
       "name": "ReSurfX",
       "position": "Machine Learning Intern",
       "location": "Cambridge, MA",
